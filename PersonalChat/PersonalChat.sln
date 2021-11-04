@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalChat.Server", "PersonalChat\Server\PersonalChat.Server.csproj", "{9F2C47D0-DA09-4FB6-BF90-41B21FCA9D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalChat.Server", "PersonalChat\Server\PersonalChat.Server.csproj", "{9F2C47D0-DA09-4FB6-BF90-41B21FCA9D39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalChat.Client", "PersonalChat\Client\PersonalChat.Client.csproj", "{543BBDC0-2E26-409E-8607-279AB491C53B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalChat.Client", "PersonalChat\Client\PersonalChat.Client.csproj", "{543BBDC0-2E26-409E-8607-279AB491C53B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalChat.Shared", "PersonalChat\Shared\PersonalChat.Shared.csproj", "{D5212357-6307-400E-8469-766232A108F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalChat.Shared", "PersonalChat\Shared\PersonalChat.Shared.csproj", "{D5212357-6307-400E-8469-766232A108F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
